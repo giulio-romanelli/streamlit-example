@@ -12,5 +12,5 @@ pdfme
 langchain
 SpeechRecognition
 mutagen
-chromadb
 pysqlite3-binary
+chromadb
