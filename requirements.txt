@@ -12,3 +12,4 @@ pdfme
 langchain
 SpeechRecognition
 mutagen
+chromadb
