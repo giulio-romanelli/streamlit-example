@@ -1,3 +1,13 @@
 altair
+numpy
 pandas
+pydeck
 streamlit
+openai
+gTTS
+matplotlib
+streamlit-mic-recorder
+python-docx
+pdfme
+langchain
+SpeechRecognition
