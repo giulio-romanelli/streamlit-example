@@ -81,7 +81,7 @@ st.markdown("""
 #st.sidebar.image('isybank_logo.svg', width = 450)
 widget = st.sidebar.empty()
 st.sidebar.markdown("")
-st.sidebar.markdown("Ciao! Sono il tuo assistente virtuale personalizzato di isybank. Sono a disposizione per aiutarti ad aprire un conto, confrontare piani e prodotti")
+st.sidebar.markdown("Ciao! Sono il tuo assistente virtuale personalizzato. Sono a disposizione per aiutarti ad aprire un conto, confrontare piani e prodotti")
 st.sidebar.markdown("")
 advisor = st.sidebar.selectbox( 'A chi preferisci rivolgerti?', ('Tommaso', 'Martina', 'Paolo', 'Sofia'))
 if advisor == "Tommaso": 
